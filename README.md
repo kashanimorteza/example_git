@@ -93,9 +93,7 @@
     default editor
     default merge tool
 
-
-
-<br><br>
+<br>
 
 ##### File Track
 
