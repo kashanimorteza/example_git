@@ -3,6 +3,13 @@
     This is a example of git
 
 
+<!---------------------------------------[Diagram]-->
+<br><br>
+
+<div align="left"><img src="git.jpeg"></div>
+
+
+
 
 <!---------------------------------------[Concept]-->
 <br><br>
