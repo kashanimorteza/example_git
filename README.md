@@ -95,16 +95,13 @@
 
 
 
-<!---------------------------------------[File Track]-->
 <br><br>
 
-## File Track
+##### File Track
 
-    #### Work directory
-
-    #### Stage
-
-    #### Repository
+    Work directory
+    Stage
+    Repository
 
 
 
