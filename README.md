@@ -79,14 +79,15 @@
 
 #### Config 
 
-Level
-
+    Level
+    -------------------
     Local
     Global
     System
     worktree
 
-Object
+    Object
+    -------------------
     user
     color highlighting
     default editor
