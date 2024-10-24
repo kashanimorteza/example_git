@@ -76,11 +76,20 @@
 
 ## Question
 
-    0 - git chi hast ?
-    1 - structure git chi hast??
-    2 - chegone yek project dar website gite create konam ?
-    3 - chegone computere khodam ro be github az tarigh key vasl konam ke hey user pass nazanam ?
-    4 - chegone project ro az github be dakhele computeram biaram ?
+    a - git chi hast ?
+    a - structure git chi hast??
+    a - chegone yek project dar website github create konam ?
+    a - chegone computere khodam ro be github az tarigh private/public key vasl konam ke hey user pass nakhad azam ?
+    a - chegone project ro az github be dakhele computeram biaram ?
+
+    b - local : pas az taghir file chegone save konam ?
+    b - local : pas az save chegone bargardam be taghire ghabl?
+
+
+
+
+
+
     5 - agar yek project public bashad va yeki bere clone kone va change kone va commit cone to pc khodesh, bad age push kone ro remote yani github aya save mishe ?
     6 - 
 
