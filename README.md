@@ -16,12 +16,6 @@
 2 – لایه دوم یا همان (stage)که با وارد کردن فایل ها به این لایه، آنها آماده ثبت تغییر می شوند
 <br>
 3 – لایه سوم (Repository) که تمام تغییرات فایل ها ثبت می شوند
-</div>
-<br>
-<div align="right" dir="rtl">
-fork کردن در واقع یعنی یه کپی از پروژه گرفتن و تغییر دادنش
-<br>
-میشود از سازندش در خواست کرد تغیییرات رو ببینه و با پروژه اصلی خودش مرج کنه
 
 
 
@@ -29,7 +23,20 @@ fork کردن در واقع یعنی یه کپی از پروژه گرفتن و �
 <!---------------------------------------[Python]-->
 <br><br>
 
-## Python
+## Source
+
+#### General
+<a href="http://git-scm.com" target="_blank">git-scm</a> - 
+<a href="http://github.com" target="_blank">github</a> - 
+<a href="http://gitlab.com" target="_blank">gitlab</a>
+
+#### Tutorial
+<a href="http://faradars.org" target="_blank">faradars</a> - 
+<a href="http://roocket.ir" target="_blank">roocket</a> - 
+<a href="http://clicksite.org" target="_blank">clicksite</a> - 
+<a href="http://faranesh.com" target="_blank">faranesh</a> -
+<a href="https://gitexplorer.com/" target="_blank">gitexplorer</a> 
+
 
 #### Install
     add-apt-repository ppa:deadsnakes/ppa
