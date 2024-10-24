@@ -98,12 +98,6 @@
     Work directory
     Stage
     Repository
-    
-<!-----------[File Track]-->
-##### File Track
-    Work directory
-    Stage
-    Repository
 
 <!-----------[File Level]-->
 #### File level
