@@ -36,3 +36,27 @@
 <a href="http://clicksite.org" target="_blank">clicksite</a> - 
 <a href="http://faranesh.com" target="_blank">faranesh</a> -
 <a href="https://gitexplorer.com/" target="_blank">gitexplorer</a> 
+
+
+
+<!---------------------------------------[Install]-->
+<br><br>
+
+## Install
+
+#### Mac
+    brew install git
+
+#### Ubuntu
+    sudo apt install git-core
+    sudo apt install git-all
+
+#### Windows (Someone who uses the Linux operating system will have steps with confidence and authority)
+    ...
+
+
+<!---------------------------------------[Tools]-->
+<br><br>
+
+## Tools
+    Ohmyzsh : graphic for git
