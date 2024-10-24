@@ -72,18 +72,19 @@
 
 
 
-<!---------------------------------------[Config]-->
+<!---------------------------------------[Structure]-->
 <br><br>
 
-## Config
+## Structure
 
-#### Level
+#### Config 
+Level
     Local
     Global
     System
     worktree
 
-#### Object
+Object
     user
     color highlighting
     default editor
