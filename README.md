@@ -93,12 +93,11 @@
     default editor
     default merge tool
 
-<!-----------[File Level]-->
-#### File level
+<!-----------[File track]-->
+#### File track
+    Work directory
+    Stage
     Repository
-    Branch
-    Tag
-    Version
     
 <!-----------[File Track]-->
 ##### File Track
