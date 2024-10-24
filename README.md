@@ -51,7 +51,7 @@
     sudo apt install git-core
     sudo apt install git-all
 
-#### Windows (Someone who uses the Linux operating system will have steps with confidence and authority)
+#### Windows (Someone who uses the Linux will have steps with confidence and authority)
     ...
 
 
