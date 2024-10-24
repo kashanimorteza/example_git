@@ -77,6 +77,7 @@
 
 ## Structure
 
+<!-----------[Config]-->
 #### Config 
 
     Level
@@ -93,8 +94,7 @@
     default editor
     default merge tool
 
-<br>
-
+<!-----------[File Track]-->
 ##### File Track
 
     Work directory
