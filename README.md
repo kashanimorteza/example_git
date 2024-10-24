@@ -79,7 +79,6 @@
 
 <!-----------[Config]-->
 #### Config 
-
     Level
     -------------------
     Local
@@ -96,50 +95,26 @@
 
 <!-----------[File Track]-->
 ##### File Track
-
     Work directory
     Stage
     Repository
 
+<!-----------[File Level]-->
+#### File level
+    Repository
+    Branch
+    Tag
+    Version
 
+<!-----------[Location]-->
+#### Location
+    Local
+    Remote
 
-<!---------------------------------------[File level]-->
-<br><br>
-
-## File level
-
-#### Repository
-
-#### Branch
-
-#### Tag
-
-#### Version
-
-
-
-<!---------------------------------------[Location]-->
-<br><br>
-
-## Location
-
-#### Local
-
-#### Remote
-
-
-
-<!---------------------------------------[Command]-->
-<br><br>
-
-## Command
-
-#### Start a working area
-
-#### Work on the current change
-
-#### Examine the history and state 
-
-#### grow, mark and tweak your common history
-
-#### Collaborate
+<!-----------[Command]-->
+#### Command
+    Start a working area
+    Work on the current change
+    Examine the history and state 
+    grow, mark and tweak your common history
+    Collaborate
