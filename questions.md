@@ -10,13 +10,13 @@
     structure git chi hast??
 
 #### 003
-    chegone yek project dar website github create konam ?
-
-#### 004
     chegone computere khodam ro be github az tarigh private/public key vasl konam ke hey user pass nakhad azam ?
 
+#### 004
+    chegone yek project dar website github create konam ? chegone on project ra be pc khod biavaram?
+
 #### 005
-    chegone project ro az github be dakhele computeram biaram ?
+    chegone project ro to local computer khod create konam va bad be github push konam ?
 
 #### 006
     local : pas az taghir file chegone save konam ?
